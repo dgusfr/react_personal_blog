@@ -1,14 +1,36 @@
+/* Menu.module.css */
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap");
+
 .navegacao {
-    height: 112px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    column-gap: 3rem;
+  height: 112px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  background-color: #1a1a2e;
+  color: #fff;
 }
 
- 
+.navegacao p {
+  margin: 0;
+  font-size: 1.8rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.navegacao a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.navegacao a:hover {
+  color: #00ffcc;
+  transform: scale(1.1);
+}
+
 @media (max-width: 744px) {
-    .navegacao {
-        height: 72px;
-    }
+  .navegacao {
+    height: 72px;
+    padding: 0 1rem;
+  }
 }
