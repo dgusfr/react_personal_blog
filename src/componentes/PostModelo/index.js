@@ -1,20 +1,34 @@
-import styles from './PostModelo.module.css';
+import React, { useEffect, useRef } from "react";
+import styles from "./PostModelo.module.css";
+
+const processLinks = (node) => {
+  if (!node) return;
+  const links = node.querySelectorAll("a");
+  links.forEach((link) => {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+};
 
 export default function PostModelo({ children, fotoCapa, titulo }) {
-    return (
-        <article className={styles.postModeloContainer}>
-            <div
-                className={styles.fotoCapa}
-                style={{ backgroundImage: `url(${fotoCapa})` }}
-            ></div>
+  const contentRef = useRef(null);
 
-            <h2 className={styles.titulo}>
-                {titulo}
-            </h2>
+  useEffect(() => {
+    processLinks(contentRef.current);
+  }, [children]);
 
-            <div className={styles.postConteudoContainer}>
-                {children}
-            </div>
-        </article>
-    )
+  return (
+    <article className={styles.postModeloContainer}>
+      <div
+        className={styles.fotoCapa}
+        style={{ backgroundImage: `url(${fotoCapa})` }}
+      ></div>
+
+      <h2 className={styles.titulo}>{titulo}</h2>
+
+      <div className={styles.postConteudoContainer} ref={contentRef}>
+        {children}
+      </div>
+    </article>
+  );
 }
