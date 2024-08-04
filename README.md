@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# "Nome do Projeto"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+"explicação rápida sobre o projeto"
 
-## Available Scripts
+## Interface
 
-In the project directory, you can run:
+<div align="center">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+</div>
 
-### `npm start`
+## Sumário
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Status](#status)
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Explicação](#explicação)
+- [Como Usar](#como-usar)
+- [Autor](#autor)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologias Utilizadas
 
-### `npm test`
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/js.png" alt="Logo Linguagem" width="100"/>
+  </div>
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/html.png" alt="Logo Linguagem" width="100"/>
+  </div>
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/css.png" alt="Logo Linguagem" width="100"/>
+  </div>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Status
 
-### `npm run build`
+![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Descrição
 
-### `npm run eject`
+"Breve descrição do que se trata o projeto"
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Funcionalidades
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+"O que esses codigos fazem"
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Explicação
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+"Pequeno trecho do codigo do projeto"
 
-## Learn More
+## Como Usar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1.
+2.
+3.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desenvolvido por Diego Franco
