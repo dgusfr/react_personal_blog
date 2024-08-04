@@ -1,11 +1,11 @@
-# "Nome do Projeto"
+# CyberVerse
 
-"explicação rápida sobre o projeto"
+Este projeto é um blog desenvolvido utilizando React. Ele permite que os usuários visualizem posts e conteúdos dinâmicos, com links que abrem em uma nova guia para uma melhor experiência de navegação.
 
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
