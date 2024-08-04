@@ -31,29 +31,25 @@ Este projeto é um blog desenvolvido utilizando React. Ele permite que os usuár
 
 ## Status
 
-![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
-
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 <!-- -->
 
 ## Descrição
 
-"Breve descrição do que se trata o projeto"
+Este projeto é um blog desenvolvido utilizando React. Ele permite que os usuários visualizem posts e conteúdos dinâmicos, com links que abrem em uma nova guia para uma melhor experiência de navegação.
 
 ## Funcionalidades
 
-"O que esses codigos fazem"
+Exibição de posts com título, imagem de capa e conteúdo.
+Renderização de conteúdo Markdown.
+Links no conteúdo que abrem em nova guia.
+Recomendação de outros posts relacionados.
+Estrutura de rotas para navegação entre diferentes páginas do blog.
 
 ## Explicação
 
-"Pequeno trecho do codigo do projeto"
-
-## Como Usar
-
-1.
-2.
-3.
+Este projeto utiliza componentes React para renderizar posts de um blog. Os componentes principais incluem PostModelo para a exibição dos posts, PostCard para a listagem de posts recomendados, e PaginaPadrao para a estrutura básica da página.
 
 ## Autor
 
