@@ -11,14 +11,9 @@
   color: #fff;
 }
 
-.navegacao p {
-  margin: 0;
-  font-size: 1.8rem;
-  font-family: "Orbitron", sans-serif;
-}
-
 .navegacao a {
   color: #fff;
+  font-size: 2rem;
   text-decoration: none;
   transition: color 0.3s ease, transform 0.3s ease;
 }

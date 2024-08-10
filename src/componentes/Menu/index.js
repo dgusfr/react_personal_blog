@@ -5,8 +5,7 @@ export default function Menu() {
   return (
     <header>
       <nav className={styles.navegacao}>
-        <p>CyberVerse</p>
-        <MenuLink to="/">Início</MenuLink>
+        <MenuLink to="/">CyberVerse</MenuLink>
       </nav>
     </header>
   );
