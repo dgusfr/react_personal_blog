@@ -49,7 +49,7 @@ Estrutura de rotas para navegação entre diferentes páginas do blog.
 
 ## Explicação
 
-Este projeto utiliza componentes React para renderizar posts de um blog. Os componentes principais incluem PostModelo para a exibição dos posts, PostCard para a listagem de posts recomendados, e PaginaPadrao para a estrutura básica da página.
+Este projeto utiliza componentes React para renderizar posts de um blog. Os componentes principais incluem PostModelo para a exibição dos posts, PostCard para a listagem de posts recomendados, e Página padrao para a estrutura básica da página.
 
 ## Autor
 
