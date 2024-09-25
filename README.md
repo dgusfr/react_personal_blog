@@ -33,12 +33,6 @@ Este projeto é um blog pessoal desenvolvido utilizando React. Ele permite que o
 
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<!-- -->
-
-## Descrição
-
-Este projeto é um blog desenvolvido utilizando React. Ele permite que os usuários visualizem posts e conteúdos dinâmicos, com links que abrem em uma nova guia para uma melhor experiência de navegação.
-
 ## Funcionalidades
 
 Exibição de posts com título, imagem de capa e conteúdo.
