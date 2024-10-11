@@ -38,6 +38,7 @@ Ele permite que os usuários visualizem posts e seus conteúdos de forma dinâmi
 ## Funcionalidades
 
 Exibição de posts com título, imagem de capa e conteúdo.
+
 Renderização de conteúdo Markdown.
 Links no conteúdo que abrem em nova guia.
 Recomendação de outros posts relacionados.
