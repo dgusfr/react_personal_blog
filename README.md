@@ -42,6 +42,7 @@ Exibição de posts com título, imagem de capa e conteúdo.
 Renderização de conteúdo Markdown.
 
 Links no conteúdo que abrem em nova guia.
+
 Recomendação de outros posts relacionados.
 Estrutura de rotas para navegação entre diferentes páginas do blog.
 
