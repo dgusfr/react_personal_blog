@@ -1,6 +1,6 @@
-# CyberVerse
+# ConquisTi Blog
 
-Este projeto é um blog pessoal desenvolvido utilizando React. 
+Este projeto é um blog pessoal desenvolvido utilizando React.
 
 Ele permite que os usuários visualizem posts e seus conteúdos de forma dinâmica, com links que abrem em uma nova guia para uma melhor experiência de navegação.
 
